@@ -1,7 +1,7 @@
 <div align="center">
-<img src='icons/mail.svg' width="25%">
+<img src='icons/mail.png'>
 <h3 style="text-decordation:none;">Presence</h3>
-<p>Create any kind of event in sync with Google Calendar</p>
+<p>a minimalist template for your online presence</p>
 </div>
 <h1>Synopsis</h1>   
   
