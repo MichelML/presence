@@ -10,9 +10,9 @@ _Presence_ is a minimalist template for you to build an online presence in minut
 It brings your name, profession, and social accounts all on one web page. No more, no less. 
   
   
-# Preview  
+## Preview  
 You can view the website directly in your browser at the following [link](https://michelml.github.io/presence/).  
-# Edit the website
+## Edit the website
 Simply go to the local directory of your choice from your terminal, and run the following command:    
 
 ```  
@@ -23,7 +23,7 @@ Now that you are in the root directory of the project, you can edit the website 
 Before you start editing, it would be recommended that you get familiar with the [framework](http://materializecss.com/) utilized for the site in the first place.
        
     
-# Third-party technologies    
+## Third-party technologies    
 As of the last edit of this README, _Presence_ is supported by the following third-party technologies:   
  
 * [Materialize](http://materializecss.com/) - Material Design appearance of the application  
@@ -31,7 +31,7 @@ As of the last edit of this README, _Presence_ is supported by the following thi
 * [Google Fonts](https://www.google.com/fonts) - Fonts of the application  
 
     
-# MIT License    
+## MIT License    
 Copyright (c) 2016 Michel Moreau  
   
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:  
