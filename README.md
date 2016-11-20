@@ -1,7 +1,7 @@
 <div align="center">
 <img src='icons/mail.png'>
 <h3 style="text-decordation:none;">Presence</h3>
-<p>a minimalist template for your online presence</p>
+<p>a minimalist template for a centralized online presence</p>
 </div>
 <h1>Synopsis</h1>   
   
