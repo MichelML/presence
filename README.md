@@ -26,7 +26,7 @@ Before you start editing, it would be recommended that you get familiar with the
 ## Third-party technologies    
 As of the last edit of this README, _Presence_ is supported by the following third-party technologies:   
  
-* [Materialize](http://materializecss.com/) - Material Design appearance of the application  
+* [Materialize](http://materializecss.com/) - Grid and cross-platform standardisation of the application  
 * [jQuery](https://jquery.com/) - Materialize dependency   
 * [Google Fonts](https://www.google.com/fonts) - Fonts of the application  
 
