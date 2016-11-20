@@ -6,3 +6,36 @@ body,
   margin:0;
 }
 
+.aligner, .aligner-item {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.aligner-item {
+
+  max-width: 100%;
+
+}
+
+#name {
+	padding: 0;
+	margin: 0;
+}
+
+#profession {
+	margin-bottom: 40px;
+}
+
+#main {
+  background: #DAD299; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(0, #B0DAB9, #DAD299) no-repeat; /* For Safari 5.3 to 6.0 */
+  background: -o-linear-gradient(0, #B0DAB9, #DAD299) no-repeat; /* For Opera 33.3 to 32.0 */
+  background: -moz-linear-gradient(0, #B0DAB9, #DAD299) no-repeat; /* For Firefox 3.6 to 35 */
+  background: linear-gradient(0, #B0DAB9) no-repeat; /* Standard syntax */
+}
+
+img {
+  padding: 2px;
+}
