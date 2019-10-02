@@ -20,7 +20,7 @@ git clone https://github.com/MichelML/presence.git && cd presence
 ```
 Now that you are in the root directory of the project, you can edit the website with your own personal information. You can also add more social accounts by using the icons provided in the `icons` folder.   
   
-Before you start editing, it would be recommended that you get familiar with the [framework](http://materializecss.com/) utilized for the site in the first place.
+Before you start editing, it would be recommended that you get familiar with [Materialize](http://materializecss.com/).
        
     
 ## Third-party technologies    
